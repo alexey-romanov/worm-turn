@@ -1,0 +1,19 @@
+# Input videos
+*.mp4
+__pycache__
+.vscode
+# Result executable
+dist/
+# pyinstaller intermediate files
+build/
+# Profiling dumps
+.prof_stats
+# Result files
+*_results.txt
+# Cython intermediate files
+cythonize_build/
+*.pyd
+*.exe
+# Virtual environment
+env/
+ground_truth.txt

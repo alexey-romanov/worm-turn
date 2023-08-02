@@ -1,0 +1,6 @@
+Cython
+numpy
+opencv-contrib-python
+pyinstaller
+pymediainfo
+scikit-image
